@@ -1,0 +1,2 @@
+# Java_checkcode_verification
+Java版本的广东工业大学教务系统验证码识别
